@@ -24,4 +24,3 @@ Fundamentos   <img align="center" alt="HTML" height="30" width="40" src="https:/
 
 <a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a>
 
-<a href="https://oseias22.github.io/site-dei/" rel="nofollow"> Site para treino (em constução)</a> - <a href="https://github.com/Oseias22/site-dei">Repositório</a>
