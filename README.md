@@ -15,7 +15,7 @@
 
 <a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a>
 
-<a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a>
+<a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a>
 
  <a href="https://oseias22.github.io/doacao-de-animais/" rel="nofollow"> Adoção de animais </a> - <a href="https://github.com/Oseias22/site-sobre-animais">Repositório</a>
 
