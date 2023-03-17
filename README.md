@@ -34,5 +34,4 @@
  
  <a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a>
  
- 
- <img src="https://camo.githubusercontent.com/fff1f1c2fb4448c15fbe4a6e0bbd3e567a0b66c19dce148c090b9dcd97eb5664/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f4a75626179657252697961643f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/Oseias22?label=Followers&amp;style=social" style="max-width: 100%;">
+
