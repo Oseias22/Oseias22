@@ -1,4 +1,5 @@
-### Olá, eu sou Oséias Silva, seja bem vindo ao meu perfil! 👋
+### Olá, eu sou Oséias Silva, seja bem vindo ao meu perfil! ✌️😁
+
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
 <li>🚀 Atualmente estou trabalhando na área de confecção.</li>
