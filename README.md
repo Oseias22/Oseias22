@@ -17,24 +17,24 @@ Fundamentos
 
 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
 
-<li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a>
+<li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a>
+<li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
 
- <li><a href="https://oseias22.github.io/doacao-de-animais/" rel="nofollow"> Adoção de animais </a> - <a href="https://github.com/Oseias22/site-sobre-animais">Repositório</a>
+ <li><a href="https://oseias22.github.io/doacao-de-animais/" rel="nofollow"> Adoção de animais </a> - <a href="https://github.com/Oseias22/site-sobre-animais">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a>
+<li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/Lista-de-afazeres/" rel="nofollow"> Lista de afazeres</a> - <a href="https://github.com/Oseias22/codigo-todo-dia-03">Repositório</a>
+<li><a href="https://oseias22.github.io/Lista-de-afazeres/" rel="nofollow"> Lista de afazeres</a> - <a href="https://github.com/Oseias22/codigo-todo-dia-03">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a>
+<li><a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/teste-box/" rel="nofollow"> Teste-box </a> - <a href="https://github.com/Oseias22/teste-box">Repositório</a>
+<li><a href="https://oseias22.github.io/teste-box/" rel="nofollow"> Teste-box </a> - <a href="https://github.com/Oseias22/teste-box">Repositório</a></li>
  
- <li><a href="https://oseias22.github.io/Landing-page/" rel="nofollow"> Landing page responsiva</a> - <a href="https://github.com/Oseias22/Landing-page">Repositório</a>
+ <li><a href="https://oseias22.github.io/Landing-page/" rel="nofollow"> Landing page responsiva</a> - <a href="https://github.com/Oseias22/Landing-page">Repositório</a></li>
  
- <li><a href="https://oseias22.github.io/meu-primeiro-projeto/" rel="nofollow"> Meu 1° projeto</a> - <a href="https://github.com/Oseias22/meu-primeiro-projeto">Repositório</a>
+ <li><a href="https://oseias22.github.io/meu-primeiro-projeto/" rel="nofollow"> Meu 1° projeto</a> - <a href="https://github.com/Oseias22/meu-primeiro-projeto">Repositório</a></li>
  
- <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a>
+ <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a></li>
  
 
