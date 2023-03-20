@@ -1,4 +1,4 @@
-<h1>𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓞𝓼𝓮́𝓲𝓪𝓼 𝓢𝓲𝓵𝓿𝓪.✌️😁 𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵!</h1>
+<h1>𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓞𝓼𝓮́𝓲𝓪𝓼 𝓢𝓲𝓵𝓿𝓪.✌️😁<br> 𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵!</h1>
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
 <li>🚀 Atualmente estou trabalhando na área de confecção.</li>
