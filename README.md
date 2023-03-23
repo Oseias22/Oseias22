@@ -21,6 +21,8 @@ Fundamentos
 <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
 
  <li><a href="https://oseias22.github.io/doacao-de-animais/" rel="nofollow"> Adoção de animais </a> - <a href="https://github.com/Oseias22/site-sobre-animais">Repositório</a></li>
+ 
+ <li><a href="https://oseias22.github.io/Eletronica-do-Val/" rel="nofollow"> Eletronica do Val</a> - <a href="https://github.com/Oseias22/Eletronica-do-Val">Repositório</a></li>
 
 <li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a></li>
 
@@ -36,4 +38,4 @@ Fundamentos
  
  <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a></li>
  
-<li><a href="https://oseias22.github.io/Eletronica-do-Val/" rel="nofollow"> Eletronica do Val</a> - <a href="https://github.com/Oseias22/Eletronica-do-Val">Repositório</a></li>
+
