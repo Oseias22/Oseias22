@@ -36,4 +36,4 @@ Fundamentos
  
  <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a></li>
  
-
+<li><a href="https://oseias22.github.io/Eletronica-do-Val/" rel="nofollow"> Eletronica do Val</a> - <a href="https://github.com/Oseias22/Eletronica-do-Val">Repositório</a></li>
