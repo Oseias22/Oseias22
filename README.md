@@ -18,7 +18,7 @@ Fundamentos
 
 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
 
-Deploy 👇😃
+🅳🅴🅿🅻🅾🆈 👇😃
 <li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a></li>
 
 <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
