@@ -15,7 +15,7 @@
 
 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
 
-🅳🅴🅿🅻🅾🆈 👇😃<i class='bx bxs-hand-down'></i>
+🅳🅴🅿🅻🅾🆈 👇😃
 
 <li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a></li>
 
@@ -31,14 +31,16 @@
 
 <li><a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/teste-box/" rel="nofollow"> Teste box </a> - <a href="https://github.com/Oseias22/teste-box">Repositório</a></li>
-
 <li><a href="https://oseias22.github.io/Receita-de-bolo/" rel="nofollow"> Receita de bolo</a> - <a href="https://github.com/Oseias22/Receita-de-bolo">Repositório</a></li>
  
  <li><a href="https://oseias22.github.io/Landing-page/" rel="nofollow"> Landing page responsiva</a> - <a href="https://github.com/Oseias22/Landing-page">Repositório</a></li>
  
  <li><a href="https://oseias22.github.io/Site-para-treino/" rel="nofollow"> Site para praticar</a> - <a href="https://github.com/Oseias22/Site-para-treino">Repositório</a></li>
  
+ <li><a href="https://oseias22.github.io/teste-box/" rel="nofollow"> Teste box </a> - <a href="https://github.com/Oseias22/teste-box">Repositório</a></li>
+ 
  <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a></li>
  
 <li><a href="https://oseias22.github.io/meu-primeiro-projeto/" rel="nofollow"> Meu 1° projeto</a> - <a href="https://github.com/Oseias22/meu-primeiro-projeto">Repositório</a></li>
+
+
