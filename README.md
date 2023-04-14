@@ -35,12 +35,10 @@
  
  <li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a></li>
  
- <li><a href="https://oseias22.github.io/Site-para-treino/" rel="nofollow"> Site para praticar</a> - <a href="https://github.com/Oseias22/Site-para-treino">Repositório</a></li>
+ <li><a href="https://oseias22.github.io/Site-para-praticar/" rel="nofollow"> Site para praticar</a> - <a href="https://github.com/Oseias22/Site-para-treino">Repositório</a></li>
  
  <li><a href="https://oseias22.github.io/teste-box/" rel="nofollow"> Teste box </a> - <a href="https://github.com/Oseias22/teste-box">Repositório</a></li>
  
  <li><a href="https://oseias22.github.io/ola-mundo/" rel="nofollow"> Primeiro repositório do curso de git e github</a> - <a href="https://github.com/Oseias22/ola-mundo">Repositório</a></li>
  
 <li><a href="https://oseias22.github.io/meu-primeiro-projeto/" rel="nofollow"> Meu 1° projeto</a> - <a href="https://github.com/Oseias22/meu-primeiro-projeto">Repositório</a></li>
-
-
