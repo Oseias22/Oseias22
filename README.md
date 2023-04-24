@@ -28,9 +28,9 @@
 
 <li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a></li>
 
-<li><a href="https://oseias22.github.io/Lista-de-afazeres/" rel="nofollow"> Lista de afazeres</a> - <a href="https://github.com/Oseias22/codigo-todo-dia-03">Repositório</a></li>
-
 <li><a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a></li>
+
+<li><a href="https://oseias22.github.io/Lista-de-afazeres/" rel="nofollow"> Lista de afazeres</a> - <a href="https://github.com/Oseias22/codigo-todo-dia-03">Repositório</a></li>
  
  <li><a href="https://oseias22.github.io/Site-para-praticar/" rel="nofollow"> Site para praticar</a> - <a href="https://github.com/Oseias22/Site-para-treino">Repositório</a></li>
  
