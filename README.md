@@ -3,6 +3,7 @@
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
 <li>🚀 Atualmente estou trabalhando na área de confecção.</li>
 <li>🎓 Cursando Desenvolvimento Front end.</li>
+<li>🎓 Cursando Desenvolvimento Web Full Stack.</li>
 <li>🎮 Hobbies: Games, leitura, músicas, filmes, praia, etc...</li><br>
 
 𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻  𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
