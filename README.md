@@ -16,7 +16,7 @@
 
 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
 
-🅳🅴🅿🅻🅾🆈 ..\ <img src="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png" srcset="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png 2x" alt="Rosto Risonho em Skype Emoticons 1.2" width="20" height="20"> /
+🅳🅴🅿🅻🅾🆈 ..\ <img src="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png" srcset="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png 2x" alt="Rosto Risonho em Skype Emoticons 1.2" width="20" height="20"> /..
 
 <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
 
