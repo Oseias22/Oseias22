@@ -1,4 +1,7 @@
-<h1>𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓞𝓼𝓮́𝓲𝓪𝓼 𝓢𝓲𝓵𝓿𝓪 ! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png 2x" alt="Mão Acenando em Microsoft Teams 1.0" width="35" height="35"> <img src="https://em-content.zobj.net/thumbs/120/apple/354/winking-face_1f609.png" srcset="https://em-content.zobj.net/thumbs/240/apple/354/winking-face_1f609.png 2x" alt="Rosto Com Olho Piscando em Apple iOS 16.4" width="35" height="35"> <br> 𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵!</h1>
+<h1>𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓞𝓼𝓮́𝓲𝓪𝓼 𝓢𝓲𝓵𝓿𝓪 !
+  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Mão Acenando" width="35" height="35">
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/winking-face_1f609.png" alt="Rosto Com Olho Piscando" width="35" height="35">
+  <br> 𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵!</h1>
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
 <li>🚀 Atualmente estou trabalhando na área de confecção.</li>
@@ -8,7 +11,7 @@
 
 <div align="center">
   <h3>𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻  𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png 2x" alt="Programador em Microsoft Teams 1.0" width="75" height="75"><br> </h3>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" alt="Programador" width="75" height="75"><br></h3>
   
   <a href="https://github.com/Oseias22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias22&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -36,7 +39,7 @@
 
 📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
   
-🅳🅴🅿🅻🅾🆈 ..\ <img src="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png" srcset="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png 2x" alt="Rosto Risonho" width="20" height="20"> /..
+🅳🅴🅿🅻🅾🆈 ..\ <img src="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png" alt="Rosto Risonho" width="20" height="20"> /..
 
 <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
 
