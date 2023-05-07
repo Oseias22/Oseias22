@@ -6,8 +6,10 @@
 <li>🎓 Cursando Desenvolvimento Web Full Stack.</li>
 <li>🎮 Hobbies: Games, leitura, músicas, filmes, praia, etc...</li><br>
 
-𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻  𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
+<div align="center">
+  𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻  𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" srcset="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png 2x" alt="Programador em Microsoft Teams 1.0" width="75" height="75"><br> 
+  </div>
 
 <div align="center">
   <a href="https://github.com/Oseias22">
