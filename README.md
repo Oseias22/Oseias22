@@ -19,20 +19,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Bootstrap" height="37" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Git" height="30" width="40" 
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" 
-       src="https://img.icons8.com/fluency/512/github.png">
-  <img align="center" alt="VsCode " height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="HTML" height="30" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS"  height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Bootstrap" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Git" height="30" width="40"    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://img.icons8.com/fluency/512/github.png">
+  <img align="center" alt="VsCode " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
   
  ##
@@ -41,8 +34,7 @@
   <a href="https://www.youtube.com/channel/UCPK7l5bdLC2UMTZWg5fz-ow" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/oseias_dudu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/os%C3%A9ias-leite-da-silva-8399b2231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/os%C3%A9ias-leite-da-silva-8399b2231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
 ##
@@ -51,17 +43,17 @@
   
 🅳🅴🅿🅻🅾🆈 ..\ <img src="https://em-content.zobj.net/source/skype/289/grinning-face_1f600.png" alt="Rosto Risonho" width="20" height="20"> /..
 
-<li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
-
-<li><a href="https://oseias22.github.io/Receita-de-bolo/" rel="nofollow"> Receita de bolo</a> - <a href="https://github.com/Oseias22/Receita-de-bolo">Repositório</a></li>
-
-<li><a href="https://oseias22.github.io/Landing-page/" rel="nofollow"> Landing page responsiva</a> - <a href="https://github.com/Oseias22/Landing-page">Repositório</a></li>
-
+ <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
+  
+ <li><a href="https://oseias22.github.io/Receita-de-bolo/" rel="nofollow"> Receita de bolo</a> - <a href="https://github.com/Oseias22/Receita-de-bolo">Repositório</a></li>
+  
+ <li><a href="https://oseias22.github.io/Landing-page/" rel="nofollow"> Landing page responsiva</a> - <a href="https://github.com/Oseias22/Landing-page">Repositório</a></li>
+  
  <li><a href="https://oseias22.github.io/doacao-de-animais/" rel="nofollow"> Adoção de animais </a> - <a href="https://github.com/Oseias22/site-sobre-animais">Repositório</a></li>
- 
+  
  <li><a href="https://oseias22.github.io/Lampada/" rel="nofollow"> Lâmpada</a> - <a href="https://github.com/Oseias22/Lampada">Repositório</a></li>
-
-<li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a></li>
+  
+ <li><a href="https://oseias22.github.io/tela-de-login/" rel="nofollow"> Tela de Login</a> - <a href="https://github.com/Oseias22/tela-de-login">Repositório</a></li>
 
 <li><a href="https://oseias22.github.io/Formulario/" rel="nofollow"> Formulário</a> - <a href="https://github.com/Oseias22/Formulario">Repositório</a></li>
 
