@@ -39,7 +39,7 @@
   
 ##
 
-📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
+📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos: <img src="https://em-content.zobj.net/source/microsoft-teams/337/face-with-monocle_1f9d0.png" alt="Rosto Com Monóculo" width="30" height="30"><br>
   
 🅳🅴🅿🅻🅾🆈 ..<img src="https://user-images.githubusercontent.com/108434095/236714572-3c44eacc-b2f1-40fd-bd5d-1049b360f03f.png" alt="minha foto" width="20" height="20">..
 
