@@ -39,9 +39,9 @@
   
 ##
 
-📖 💻 Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos: <img src="https://em-content.zobj.net/source/microsoft-teams/337/face-with-monocle_1f9d0.png" alt="Rosto Com Monóculo" width="30" height="30"><br>
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/face-with-monocle_1f9d0.png" alt="Rosto Com Monóculo" width="20" height="20">  Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:<br>
   
-🅳🅴🅿🅻🅾🆈 ..<img src="https://user-images.githubusercontent.com/108434095/236714572-3c44eacc-b2f1-40fd-bd5d-1049b360f03f.png" alt="minha foto" width="20" height="20">..
+🅳🅴🅿🅻🅾🆈 ..<img src="https://em-content.zobj.net/thumbs/120/whatsapp/352/desktop-computer_1f5a5-fe0f.png" alt="Computador" width="20" height="20">..
 
  <li><a href="https://oseias22.github.io/Flowbnb/" rel="nofollow"> Site Flowbnb</a> - <a href="https://github.com/Oseias22/Flowbnb">Repositório</a></li>
   
