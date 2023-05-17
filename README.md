@@ -14,7 +14,7 @@
 <img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" alt="Programador" width="75" height="75"><br></h3> 
  
   <a href="[https://github.com/Oseias22](https://github.com/Oseias22"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru"e/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oseias22&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
