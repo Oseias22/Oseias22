@@ -42,7 +42,7 @@
   
 ##
 
-<h3><img src="https://em-content.zobj.net/source/microsoft-teams/337/face-with-monocle_1f9d0.png" alt="Rosto Com Monóculo" width="20" height="20"> Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:</h3><br>
+<h3><img src="https://em-content.zobj.net/source/microsoft-teams/337/face-with-monocle_1f9d0.png" alt="Rosto Com Monóculo" width="20" height="20"> <img src="https://em-content.zobj.net/source/microsoft-teams/363/ok-hand_1f44c.png" srcset="https://em-content.zobj.net/source/microsoft-teams/363/ok-hand_1f44c.png 2x" width="20" height="20"> Veja abaixo alguns dos Projetos realizados durante os cursos e os treinos:</h3><br>
   
 🅳 🅴 🅿 🅻 🅾 🆈 ..<img src="https://em-content.zobj.net/thumbs/120/whatsapp/352/desktop-computer_1f5a5-fe0f.png" alt="Computador" width="20" height="20">..
 
