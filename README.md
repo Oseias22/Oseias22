@@ -11,7 +11,7 @@
 
 <div align="center">
   <h2>𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻  𝓯𝓻𝓸𝓷𝓽-𝓮𝓷𝓭.
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" alt="Programador" width="75" height="75"><br></h2> 
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/technologist_1f9d1-200d-1f4bb.png" alt="Programador" width="80" height="80"><br></h2> 
  
   <a href="[https://github.com/Oseias22](https://github.com/Oseias22"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oseias22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru"e/>
