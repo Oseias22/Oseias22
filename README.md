@@ -1,7 +1,10 @@
-<h1>𝓞𝓵𝓪́, 𝓮𝓾 𝓼𝓸𝓾 𝓞𝓼𝓮́𝓲𝓪𝓼 𝓢𝓲𝓵𝓿𝓪 !
+<h1> <div align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2c8&center=true&vCenter=true&width=435&lines=Olá+eu+sou+o+Oséias+Silva!++%F0%9F%91%8B;Dev.+Full-stack+em+construção!+)](https://git.io/typing-svg)
+</div>
   <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Mão Acenando" width="35" height="35">
-  <img src="https://em-content.zobj.net/thumbs/120/apple/354/winking-face_1f609.png" alt="Rosto Com Olho Piscando" width="35" height="35">
-  <br> 𝓢𝓮𝓳𝓪 𝓫𝓮𝓶 𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵 !</h1>
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/winking-face_1f609.png" alt="Olho Piscando" width="35" height="35">
+   </h1>
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
 <li>🚀 Atualmente estou trabalhando na área de confecção.</li>
