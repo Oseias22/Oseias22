@@ -1,8 +1,6 @@
 <h1> <div align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2ccenter=true&vCenter=true&width=435&lines=Olá+eu+sou+o+Oséias+Silva!+;Dev.+Full-stack+em+construção!+)](https://git.io/typing-svg)
-  <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" alt="Mão Acenando" width="35" height="35">
-  <img src="https://em-content.zobj.net/thumbs/120/apple/354/winking-face_1f609.png" alt="Olho Piscando" width="35" height="35">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2ccenter=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Oséias+Silva!++%F0%9F%91%8B;Dev.+Full-stack+em+constru%C3%A7%C3%A3o!+%F0%9F%9A%A7)](https://git.io/typing-svg)
 </h1></div>
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
