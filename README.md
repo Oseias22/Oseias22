@@ -1,6 +1,6 @@
 <h1> <div align="center">
   
-![](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2ccenter=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Oséias+Leite+da+Silva!++%F0%9F%91%8B;Dev.+Full-stack+em+constru%C3%A7%C3%A3o!+%F0%9F%9A%A7)
+![](https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=5020&pause=1000&color=c8a2ccenter=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Oséias+Silva!++%F0%9F%91%8B;Dev.+Full-stack+em+constru%C3%A7%C3%A3o!+%F0%9F%9A%A7)
 </h1></div>
 
 <li>🌍  Sou de Guarulhos - São Paulo.</li>
